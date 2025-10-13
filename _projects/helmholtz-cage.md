@@ -1,6 +1,6 @@
 ---
 title: "Helmholtz Cage – UBC Orbit"
-excerpt: "Precision electromagnetic field generator for testing and calibration. Features three-axis control with uniform field generation for sensor validation."
+excerpt: "Precision electromagnetic field generator for satellite testing and calibration. Field generation research as well as systems level design."
 tags: [Electromagnetics, "Systems Design", Instrumentation, Testing]
 header:
   teaser: /assets/images/projects/helmholtz-cage.jpg
