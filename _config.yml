@@ -87,6 +87,11 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
 defaults:
   # _posts
   - scope:
@@ -106,6 +111,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+  #projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      classes: wide 
+      toc: false
+      read_time: false
 
 category_archive:
   type: liquid

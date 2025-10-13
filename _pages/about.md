@@ -1,8 +1,27 @@
 ---
+title: "About"
+author_profile: true
 permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello! I'm an engineering physics student at UBC. Engineering physics is a prestigious program that combines mechanical, electrical, and software engineering with theoretical physics to encourage innovation in technology. I've gained invaluable experience across many disciplines.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm also part of UBC orbit satellite design team, where I'm an avionics designer, currently worked on a satellite face PCB and firmware!
+
+I did my previous Co-op at ScopeSys, where I got the opportunity to develop a functional prototype for their cLic technology. In my free time, I love to excercise and play guitar
+
+Here are a few technologies I've been working with recently:
+
+▹
+Altium
+▹
+Python
+▹
+C++
+▹
+SolidWorks
+▹
+PyTorch
+▹
+OpenCV
