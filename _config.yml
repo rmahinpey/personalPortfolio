@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Ryan Mahinpey"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Engineering Physics student passionate about robotics, physics, and machine learning."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
