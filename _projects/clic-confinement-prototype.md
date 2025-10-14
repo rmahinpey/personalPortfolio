@@ -1,6 +1,6 @@
 ---
-title: "Clic Confinement prototype – ScopeSys Inc."
-excerpt: "Co-op project at Scopesys. Developed single molecular imaging pressure confinement rig prototype. Control setup that pressures microscope sample to confine molecules to a single well."
+title: "Microfluidics pressure Control system. – ScopeSys Inc."
+excerpt: "Co-op project at Scopesys. Developed pressure control system for microfluidic chip. Plenty of design interation through CAD. Wrote firmware for sensor, designed circuits for setup."
 tags: [Microcontrollers, Electronics, Sensors, Solidworks, "3D printing", Prototyping, Python, C++, Instrumentation]
 header:
   teaser: /assets/images/projects/testRig.jpg
