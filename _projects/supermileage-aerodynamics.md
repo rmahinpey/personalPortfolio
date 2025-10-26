@@ -1,6 +1,7 @@
 ---
 title: "Supermileage Aerodynamics – UBC Supermileage"
 excerpt: "Ultra-efficient vehicle shell designed for fuel-economy competitions. Aerodynamic carbon-fiber shell."
+order: 6
 tags: [CAD, Aerodynamics, "Composite Materials", Manufacturing, Solidworks]
 header:
   teaser: /assets/images/projects/layup.jpg

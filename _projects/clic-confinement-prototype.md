@@ -1,6 +1,7 @@
 ---
 title: "Microfluidics pressure Control system. – ScopeSys Inc."
 excerpt: "Co-op project at Scopesys. Developed pressure control system for microfluidic chip. Plenty of design interation through CAD. Wrote firmware for sensor, designed circuits for setup."
+order: 3
 tags: [Microcontrollers, Electronics, Sensors, Solidworks, "3D printing", Prototyping, Python, C++, Instrumentation]
 header:
   teaser: /assets/images/projects/testRig.jpg

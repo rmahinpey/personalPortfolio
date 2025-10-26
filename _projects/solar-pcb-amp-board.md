@@ -1,6 +1,7 @@
 ---
 title: "Solar PCB Amp Board – UBC Orbit"
 excerpt: "Solar PCB test board to validate and determine the most suitable sensor for satellite integration."
+order: 9
 tags: ["PCB Design", Altium, "Analog Design", Firmware]
 header:
   teaser: /assets/images/projects/solar-ss.png
@@ -9,3 +10,4 @@ header:
 ---
 
 <span class="label label--info">In Progress</span>
+

@@ -4,12 +4,3 @@ ryan:
   bio: "Engineering Physics student passionate about robotics, physics, and machine learning."
   location: "Vancouver, BC"
   links:
-    - label: "Website"
-      icon: "fas fa-link"
-      url: "https://your-website-url.github.io"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/yourusername"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "www.linkedin.com/in/ryan-mahinpey-a2bba2324"
