@@ -8,3 +8,6 @@ header:
   overlay_image: /assets/images/projects/layup.jpg
   overlay_filter: 0.25
 ---
+
+# Project overview
+During my first year at UBC, I was a member of the aerodynamics team at UBC supermileage. I got the chance to manufacture a carbon fiber shell using wet layup techniques.

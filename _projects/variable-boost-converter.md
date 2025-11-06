@@ -8,3 +8,7 @@ header:
   overlay_image: /assets/images/projects/dc-schematic.png
   overlay_filter: 0.25
 ---
+
+# Project overview
+
+My goal with this project was to get comfortable with PCB design and learn about power electronics. I designed a variable DC boost converter, using a 555 timer to control the PWM at the gate of a mosfet.

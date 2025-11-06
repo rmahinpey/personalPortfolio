@@ -10,4 +10,4 @@ header:
 ---
 
 # Project Overview
-After the summer of my first year, I had the opportunity to research some methods in CFD at the University of Calgary. 
+After the summer of my first year, I had the opportunity to research some methods in CFD at the University of Calgary. The goal of the project was to compare different methods of computation for CFD. I started off by learning about PDEs and numerical methods. I then spent an extensive amount of time studying the 2d karman vortex problem, and using different custom mesh configurations. The term ended with me learning about GPU based CFD computation on nek5000, which is a SEM based fluid solver.

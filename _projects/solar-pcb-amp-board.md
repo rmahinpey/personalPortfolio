@@ -11,3 +11,5 @@ header:
 
 <span class="label label--info">In Progress</span>
 
+# Project Overview
+The goal of this project was to create a Solar Sensor amplifier board to be able to test our satellite's sun sensor. To do this, I create a custom PCB in altium that allowed us to test different amplifier configurations.

@@ -10,3 +10,6 @@ header:
 ---
 
 <span class="label label--info">In Progress</span>
+
+# Project overview
+This project is a current work in progress. Competition for this project is in early december. We are currently developing an imitation learning approach to the competition.
