@@ -13,8 +13,8 @@ header:
 The Ball Model Competition is a yearly contest between engineering faculties where you build something related to your faculty. Being passionate about physics (and of course being an eng phys student) I decided to build a robot that demonstrated the concept of Schrodingers cat. The project also needs to dispense beverages to the judges.
 
 # High Level Design
-![Cat hi](/assets/images/projects/Cat_hi.jpg)
-![Cat CAD](/assets/images/projects/CatCAD.jpg)
+![Cat hi]({{ '/assets/images/projects/Cat_hi.jpg' | relative_url }})
+![Cat CAD]({{ '/assets/images/projects/CatCAD.png' | relative_url }})
 
 To replicate the famous thought experiment, we needed a way to know that the box that the Cat was inside was being observed. I decided to use computer vision for this task, as the camera could easily replace the eye of the cat and have a robotic / techy look. The benefit of using a camera is that the cat can track the face of the user and follow it. Integrating a laptop as well as a circuit board with an ESP32, we could now compute high level computer vision and control the low level hardware. The system was powered by a bench top power supply.
 
