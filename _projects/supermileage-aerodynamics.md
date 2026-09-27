@@ -10,4 +10,4 @@ header:
 ---
 
 # Project overview
-During my first year at UBC, I was a member of the aerodynamics team at UBC supermileage. I got the chance to manufacture a carbon fiber shell using wet layup techniques.
+During my first year at UBC, I was a member of the aerodynamics team at UBC supermileage. I got the chance to manufacture a carbon fiber shell using wet layup techniques. The goal of the project was to design and manufacture a fuel efficient shell. Carbon fiber was chosen for it's it's low weight and high tensile strength.
