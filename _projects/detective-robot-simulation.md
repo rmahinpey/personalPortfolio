@@ -9,8 +9,6 @@ header:
   overlay_filter: 0.25
 ---
 
-<span class="label label--info">In Progress</span>
-
 ## Autonomous Detective Robot
 
 **ROS · Gazebo · Python · OpenCV · YOLOv5 · CNNs · Computer Vision · Machine Learning**
