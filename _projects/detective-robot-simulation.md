@@ -19,6 +19,15 @@ header:
 
 For UBC's ENPH 353 autonomous robotics competition, my teammate and I developed a simulated autonomous robot capable of navigating a complex urban environment while obeying traffic rules, avoiding dynamic obstacles, and visually identifying eight alphanumeric "clue boards" distributed throughout the course. The final system used a hybrid architecture combining learned driving, classical computer vision, object detection, and finite-state control. My primary ownership was the robot's **clue-recognition perception pipeline**: dataset generation, character-recognition training infrastructure, YOLO-based clue-board detection, image-processing tools, and failsafe recovery logic.
 
+<img src="{{ '/assets/images/projects/image_processing.png' | relative_url }}" alt="Image processing pipeline" style="display: block; width: 100%; height: auto;">
+
+<img src="{{ '/assets/images/projects/353_state_machine.png' | relative_url }}" alt="Finite-state machine for the robot" style="display: block; width: 100%; height: auto;">
+
+<video controls preload="metadata" style="display: block; width: 100%; height: auto;">
+  <source src="{{ '/assets/images/projects/giphy.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video element.
+</video>
+
 ### Clue Detection and Character Recognition
 
 A major challenge was building a perception system capable of reading small, low-resolution text from a moving robot. I developed a **YOLOv5 clue-board detector** that first reduced the full camera image to the region containing a clue. From there, I built an OpenCV pipeline to isolate and segment individual characters. The pipeline cropped the board, applied HSV-based colour filtering, used morphological erosion to separate characters that had merged together, identified connected regions using contours, and then dilated the isolated characters before classification. This separation between object detection, image processing, and character recognition made the system significantly easier to debug than attempting to solve the entire perception problem with a single model.

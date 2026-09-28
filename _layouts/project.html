@@ -1,0 +1,11 @@
+---
+layout: single
+---
+{% assign project_image = page.header.overlay_image | default: page.header.teaser %}
+{% if project_image %}
+<figure class="project-main-photo">
+  <img src="{{ project_image | relative_url }}" alt="{{ page.title | escape }}" style="display: block; width: 100%; height: auto;">
+</figure>
+{% endif %}
+
+{{ content }}
