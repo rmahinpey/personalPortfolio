@@ -12,6 +12,11 @@ header:
 
 This was a robot that me and 3 other teammates designed for the annual eng phys robot competition at UBC. The competition was simple: pickup the most "pets" (which took the form of plush animals) in 2 minutes. Over 6 weeks, we designed, protoptyped, and manufactured a fully autonomous robot from scratch! No pre made kits, no hand holding, and no time to waste!
 
+<video controls preload="metadata" style="display: block; width: 100%; height: auto;">
+  <source src="{{ '/assets/images/projects/giphy.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video element.
+</video>
+
 ### High level design
 
 The first stage of the robot, which involved contribution from the entire group, was to come up with a design to be able to pitch. After thorough consideration of problem constraints, ease of prototyping, and timeline, we came up with our high level design. We decided to detect the pets, we would use a camera with a trained neural net. This came with multiple benefits. As opposed to other sensor options, such as magnetometers (the pets had magnets inside) and LIDAR sensors, a camera had the broadest field of view and rage. We came to this conclusion after extensive testing, finding that magnetic sensors were prone to noise and needed to be close to detect the pets.
